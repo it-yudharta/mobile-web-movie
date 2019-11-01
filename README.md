@@ -1,6 +1,5 @@
 # Movie App (movie)
-
-Movie Application
+Movie Catalogue Application
 
 ## Install the dependencies
 ```bash
